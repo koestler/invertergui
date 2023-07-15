@@ -1,4 +1,4 @@
-module github.com/diebietse/invertergui
+module github.com/koestler/invertergui
 
 go 1.20
 
